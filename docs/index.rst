@@ -38,25 +38,24 @@ Welcome to ocg-rulebook's documentation!
 
    chapters/*
 
-联系方式
+聯繫方式
 ========
 
-| 直接在有问题的网页底部评论即可。
-| 如果对规则有一定了解且有兴趣，可以加入qq群：768881279（有加群问题，不建议萌新加群）
-| 或发邮件至：\ lucahhai@gmail.com\ /\ lucahhai@foxmail.com
+| 直接在有問題的網頁底部評論即可。
+| 或發郵件至：\ nightlord851108@gmail.com\
 
-源代码
+原始碼
 =======
 
-| 这些文章用\ `restructureText <https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html>`__\ 写就。
-| 所有内容的代码见：\ `ocg-rulebook <https://github.com/lucays/ocg-rulebook>`__\ 。
-| 网站界面主题的代码见：\ `sphinx-typlog-theme <https://github.com/lucays/sphinx-typlog-theme>`__\ 。
-| readthedocs托管文档的步骤参考\ `使用ReadtheDocs托管文档 <https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html>`__\ 和\ `sphinx文档 <http://www.sphinx-doc.org/en/master/>`__\ 。
+| 這些文章用\ `restructureText <https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html>`__\ 寫成。
+| 所有內容的原始碼請見：\ `ocg-rulebook <https://github.com/Nightlord851108/ocg-rulebook>`__\ 。
+| 網站界面主題的原始碼請見：\ `sphinx-typlog-theme <https://github.com/lucays/sphinx-typlog-theme>`__\ 。
+| readthedocs托管文件的步驟參考\ `ReadtheDocs <https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html>`__\ 和\ `sphinx文件 <http://www.sphinx-doc.org/en/master/>`__\ 。
 
-广告相关
+廣告相關
 ==========
 
-| 本项目托管在\ `readthedocs <https://readthedocs.org/>`__\ ，一个可以免费发布文档的网站。
-| 以前，readthedocs只会给使用官方主题的项目网页加上广告，只要使用自己编写的第三方主题（例如本网站），就不会有广告。
-| 不过，readthedocs公告宣布现在会给所有项目加上广告：\ `New Ad Format Coming to Read the Docs Community Sites <https://blog.readthedocs.com/fixed-footer-ad-all-themes/>`__\ 。
-| 请注意这些广告与我没有任何关系，我也无法再去除。
+| 本項目托管在\ `readthedocs <https://readthedocs.org/>`__\ ，一個可以免費發佈文件的網站。
+| 以前，readthedocs只會給使用官方主題的項目網頁加上廣告，只要使用自己編寫的第三方主題（例如本網站），就不會有廣告。
+| 不過，readthedocs公告宣佈現在會給所有項目加上廣告：\ `New Ad Format Coming to Read the Docs Community Sites <https://blog.readthedocs.com/fixed-footer-ad-all-themes/>`__\ 。
+| 請注意這些廣告與我沒有任何關係，我也無法再去除。
