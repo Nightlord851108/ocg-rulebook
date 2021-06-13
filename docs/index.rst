@@ -10,21 +10,26 @@ Welcome to ocg-rulebook's documentation!
 .. role:: strike
     :class: strike
 
+=======
 前言
-======
+=======
 
-.. sidebar:: 以前的完全规则书翻译 by warsier
+.. role:: strike
+    :class: strike
 
-   | 2017新大师规则完全规则书→\ `gitbook <https://warsier.gitbooks.io/new_master_rule>`__
-   | 2014大师规则3完全规则书→\ `gitbook <https://warsier.gitbooks.io/yugioh_master_rule_3/content/>`__
+.. sidebar:: 以前的完全規則書翻譯 by warsier
 
-| 这里是游戏王OCG完全规则书2020的中文翻译。
-| 相比以前的完全规则书，没有变动的内容沿用了之前的译者\ `@warsier <https://tieba.baidu.com/home/main?un=787012293>`__ 的翻译，已获得许可，在此表示感谢。
-| 原文中不准确的内容会有标注。此外原文部分内容不够详细，可以参考\ `ocg rule <https://ocg-rule.readthedocs.io>`__\ 的相关部分。
-| 对某些内容有疑问或发现内容有错误，都可以通过下方的\ 联系方式_\ 联系我。
-| 其他参考\ `ocg rule <https://ocg-rule.readthedocs.io>`__\ 的前言部分，不再复述。
+  | 2017新大師規則完全規則書→\ `gitbook <https://warsier.gitbooks.io/new_master_rule>`__
+  | 2014大師規則3完全規則書→\ `gitbook <https://warsier.gitbooks.io/yugioh_master_rule_3/content/>`__
 
-目录
+| 這裡是遊戲王OCG完全規則書2020的繁體中文翻譯。
+| 相比簡體中文翻譯之完全規則書，內容皆沿用自前譯者\ `@lucays <https://github.com/lucays/ocg-rulebook>`__ 的翻譯，並稍做修改為繁體中文版本。
+| 相比以前的完全規則書，沒有變動的內容沿用了之前的譯者\ `@warsier <https://tieba.baidu.com/home/main?un=787012293>`__ 的翻譯，已獲得許可，在此表示感謝。
+| 原文中不準確的內容會有標注。此外原文部分內容不夠詳細，可以參考\ `ocg rule <https://ocg-rule.readthedocs.io>`__\ 的相關部分。
+| 對某些內容有疑問或發現內容有錯誤，都可以通過下方的\ 聯繫方式_\ 聯繫我。
+| 其他參考\ `ocg rule <https://ocg-rule.readthedocs.io>`__\ 的前言部分，不再複述。
+
+目錄
 =======
 
 .. toctree::

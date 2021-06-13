@@ -21,5 +21,12 @@ Forked from [lucays/ocg-rule](https://github.com/lucays/ocg-rule)
 
 ### Build
 ```
-$ make
+$ make html
 ```
+
+## Update dialog
+
+### 2021/06/12
+- index.rst <- `in progress`
+- pdf_index.rst <- Completed
+- 前言.rst <- Completed
