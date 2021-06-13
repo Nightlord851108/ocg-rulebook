@@ -1,2 +1,3 @@
 -e git+https://github.com/lucays/sphinx-typlog-theme.git#egg=sphinx-typlog-theme
 git+https://github.com/readthedocs/readthedocs-sphinx-search@master
+sphinx-typlog-theme
