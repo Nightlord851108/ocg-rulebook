@@ -24,11 +24,11 @@ import datetime
 # -- Project information -----------------------------------------------------
 
 project = 'ocg-rulebook'
-copyright = f'2018-{(datetime.datetime.now() + datetime.timedelta(hours=8)).strftime("%Y")}, 碎冰'
-author = '碎冰'
+copyright = f'2021-{(datetime.datetime.now() + datetime.timedelta(hours=8)).strftime("%Y")}, 胡喻翔'
+author = '胡喻翔'
 
 # The short X.Y version
-version = '2020.4'
+version = '2021.6'
 # The full version, including alpha/beta/rc tags
 release = ''
 
@@ -179,7 +179,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     ('pdf_index', 'ocg-rulebook.tex', 'ocg-rulebook Documentation',
-     '碎冰', 'manual'),
+     '胡喻翔', 'manual'),
 ]
 
 latex_show_pagerefs = True
