@@ -86,11 +86,11 @@ html_theme_path = [sphinx_typlog_theme.get_path()]
 html_theme_options = {
     'logo': 'logo.webp',
     'color': 'rgba(3, 172, 244, 0.8)',
-    'description': 'OCG完全规则书 by 碎冰',
-    'github_user': 'lucays',
+    'description': 'OCG完全規則書 by 胡喻翔',
+    'github_user': 'nightlord851108',
     'github_repo': 'ocg-rulebook',
     'canonical_url': 'https://ocg-rulebook.readthedocs.io',
-    'analytics_id': 'G-VY2P3EQR0X',
+    'analytics_id': 'A86E05C6-8FA3-4A1C-9FC0-55C0E3D9A5F6',
     'last_updated': (datetime.datetime.now() + datetime.timedelta(hours=8)).strftime("%Y-%m-%d %H:%M:%S"),
 }
 html_sidebars = {
